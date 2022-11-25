@@ -35,6 +35,10 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandro-olgesashvili&show_icons=true&locale=en" alt="sandro-olgesashvili" /></p>
+
+  
 
 
 
