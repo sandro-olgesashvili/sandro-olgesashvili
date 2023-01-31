@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandro-olgesashvili&show_icons=true&locale=en&layout=compact&theme=radical" alt="sandro-olgesashvili" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandro-olgesashvili&show_icons=true&locale=en" alt="sandro-olgesashvili" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandro-olgesashvili&show_icons=true&locale=en&theme=radical" alt="sandro-olgesashvili" /></p>
