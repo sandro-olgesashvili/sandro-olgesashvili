@@ -15,6 +15,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandro-olgesashvili&show_icons=true&locale=en&layout=compact" alt="sandro-olgesashvili" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandro-olgesashvili&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sandro-olgesashvili" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandro-olgesashvili&show_icons=true&locale=en" alt="sandro-olgesashvili" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandro-olgesashvili&show_icons=true&locale=en&theme=transparent" alt="sandro-olgesashvili" /></p>
